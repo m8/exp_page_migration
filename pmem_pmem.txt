@@ -1,0 +1,5 @@
+1MB 0.00265729 seconds, 376.323 MB/second
+64MB 0.0757541 seconds, 844.839 MB/second
+256MB 0.331661 seconds, 771.873 MB/second
+1024MB 1.18247 seconds, 865.986 MB/second
+4096MB 4.60771 seconds, 888.946 MB/second

@@ -1,0 +1,13 @@
+pmigrate
+
+this is an experiment to show how different numa, device configurations affect the page migration throughput. 
+
+-----
+bash bench.sh # => this will run all benchmarks
+./bench 0 1 # => source, dest nodes
+----- 
+
+see the througphut.png
+in this experiment machine had interleaved persistent memories.
+
+
